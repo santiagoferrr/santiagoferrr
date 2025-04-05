@@ -9,9 +9,9 @@
 <br />
 
 ## 💼Certifications
->![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security+-4285F4?style=for-the-badge)
+>![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security+-F45842?style=for-the-badge)
 >![CCNA](https://img.shields.io/badge/CCNA-4285F4?style=for-the-badge)
->![CompTIA A+](https://img.shields.io/badge/CompTIA_A+-4285F4?style=for-the-badge)
+>![CompTIA A+](https://img.shields.io/badge/CompTIA_A+-F45842?style=for-the-badge)
 >![CyberOps Associate](https://img.shields.io/badge/CyberOps_Associate-4285F4?style=for-the-badge)
 >![CCST](https://img.shields.io/badge/CCST-4285F4?style=for-the-badge)
 
