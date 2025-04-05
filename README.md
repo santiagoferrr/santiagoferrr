@@ -2,7 +2,7 @@
  
  <img align="right" height="140em" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjFhdG5ldWh5OGo3cG1va3N3NXpmbWN5cmExeTFobzNjODJxemYydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VLWIuR02bq33gp48aQ/giphy.gif"/>
  
-  - 🌱 Brazilian Analist of SOC.
+  - 🌱 Brazilian SOC Analist.
   - 🎲 I'm currently studying Cyber Defense (03/06) at WYDEN.
   - 🎲 Certifications: CompTIA Security+, CompTIA A+, CCNA, CyberOps Associate and CCST. 
   - 🗨️ Languages: Portuguese (Native) | English (Intermediate)
@@ -16,7 +16,7 @@ Nothing yet. Just another pessoal project:
 
 
 ## 🚀Skills and tools
->[![Python](https://img.shields.io/badge/Python-4285F4?style=for-the-badge)]
+>![Python](https://img.shields.io/badge/Python-4285F4?style=for-the-badge)
 | 📋 **Markdown Languages**                                                                                                                                                                    
 | 🌐 **Programming Languages**  
 | 📚 **Frameworks and Libraries**
