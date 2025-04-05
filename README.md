@@ -17,16 +17,16 @@ Nothing yet. Just another pessoal project:
 
 ## 🚀Skills and tools
 >![Python](https://img.shields.io/badge/Python-4285F4?style=for-the-badge)
->>![Power BI](https://img.shields.io/badge/Power_bi-4285F4?style=for-the-badge)
->>![IBM QRADAR](https://img.shields.io/badge/IBM_QRADAR-4285F4?style=for-the-badge)
->>![AXUR](https://img.shields.io/badge/AXUR-4285F4?style=for-the-badge)
->>>![TENABLE](https://img.shields.io/badge/TENABLE-4285F4?style=for-the-badge)
->>>![AQL](https://img.shields.io/badge/AQL-4285F4?style=for-the-badge)
->>>![OPENCTI](https://img.shields.io/badge/OPENCTI-4285F4?style=for-the-badge)
->>>![Digital Fraud](https://img.shields.io/badge/Digital_fraud-4285F4?style=for-the-badge)
->>>![Infostealer Credentials](https://img.shields.io/badge/Infostealer_Credentials-4285F4?style=for-the-badge)
->>>![Corporate Credential Leak](https://img.shields.io/badge/Corporate_Credential_Leak-4285F4?style=for-the-badge)
->>>![Deep and dark web monitoring](https://img.shields.io/badge/Deep_and_dark_web_monitoring-4285F4?style=for-the-badge)
+>![Power BI](https://img.shields.io/badge/Power_bi-4285F4?style=for-the-badge)
+>![IBM QRADAR](https://img.shields.io/badge/IBM_QRADAR-4285F4?style=for-the-badge)
+>![AXUR](https://img.shields.io/badge/AXUR-4285F4?style=for-the-badge)
+>![TENABLE](https://img.shields.io/badge/TENABLE-4285F4?style=for-the-badge)
+>![AQL](https://img.shields.io/badge/AQL-4285F4?style=for-the-badge)
+>![OPENCTI](https://img.shields.io/badge/OPENCTI-4285F4?style=for-the-badge)
+>![Digital Fraud](https://img.shields.io/badge/Digital_fraud-4285F4?style=for-the-badge)
+>![Infostealer Credentials](https://img.shields.io/badge/Infostealer_Credentials-4285F4?style=for-the-badge)
+>![Corporate Credential Leak](https://img.shields.io/badge/Corporate_Credential_Leak-4285F4?style=for-the-badge)
+>![Deep and dark web monitoring](https://img.shields.io/badge/Deep_and_dark_web_monitoring-4285F4?style=for-the-badge)
 
 <br />
 
