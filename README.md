@@ -4,48 +4,43 @@
  
   - 🌱 Brazilian SOC Analist.
   - 🎲 I'm currently studying Cyber Defense (03/06) at WYDEN.
-  - 🎲 Certifications: CompTIA Security+, CompTIA A+, CCNA, CyberOps Associate and CCST. 
   - 🗨️ Languages: Portuguese (Native) | English (Intermediate)
-  - 💙 Series, movies and books enjoyer.
+  - 🎮 Series, movies and games enjoyer.
 <br />
+
+## 💼Certifications
+>![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security+-4285F4?style=for-the-badge)
+>![CCNA](https://img.shields.io/badge/CCNA-4285F4?style=for-the-badge)
+>![CompTIA A+](https://img.shields.io/badge/CompTIA_A+-4285F4?style=for-the-badge)
+>![CyberOps Associate](https://img.shields.io/badge/CyberOps_Associate-4285F4?style=for-the-badge)
+>![CCST](https://img.shields.io/badge/CCST-4285F4?style=for-the-badge)
 
 ## 💻Projects for Area
 
 Nothing yet. Just another pessoal project:
+
  >[![Python](https://img.shields.io/badge/Python-4285F4?style=for-the-badge)](https://github.com/santiagoferrr?tab=repositories&q=organi&type=&language=&sort=)
 
 
-## 🚀Skills and tools
->![Python](https://img.shields.io/badge/Python-4285F4?style=for-the-badge)
->![Power BI](https://img.shields.io/badge/Power_bi-4285F4?style=for-the-badge)
->![IBM QRADAR](https://img.shields.io/badge/IBM_QRADAR-4285F4?style=for-the-badge)
->![AXUR](https://img.shields.io/badge/AXUR-4285F4?style=for-the-badge)
->![TENABLE](https://img.shields.io/badge/TENABLE-4285F4?style=for-the-badge)
+## 🚀Skills
 >![AQL](https://img.shields.io/badge/AQL-4285F4?style=for-the-badge)
->![OPENCTI](https://img.shields.io/badge/OPENCTI-4285F4?style=for-the-badge)
 >![Digital Fraud](https://img.shields.io/badge/Digital_fraud-4285F4?style=for-the-badge)
 >![Infostealer Credentials](https://img.shields.io/badge/Infostealer_Credentials-4285F4?style=for-the-badge)
 >![Corporate Credential Leak](https://img.shields.io/badge/Corporate_Credential_Leak-4285F4?style=for-the-badge)
 >![Deep and dark web monitoring](https://img.shields.io/badge/Deep_and_dark_web_monitoring-4285F4?style=for-the-badge)
 >![Log analysis](https://img.shields.io/badge/Log_analysis-4285F4?style=for-the-badge)
->![TENABLE](https://img.shields.io/badge/TENABLE-4285F4?style=for-the-badge)
->![TENABLE](https://img.shields.io/badge/TENABLE-4285F4?style=for-the-badge)
->![TENABLE](https://img.shields.io/badge/TENABLE-4285F4?style=for-the-badge)
->![TENABLE](https://img.shields.io/badge/TENABLE-4285F4?style=for-the-badge)
->![TENABLE](https://img.shields.io/badge/TENABLE-4285F4?style=for-the-badge)
->![TENABLE](https://img.shields.io/badge/TENABLE-4285F4?style=for-the-badge)
->![TENABLE](https://img.shields.io/badge/TENABLE-4285F4?style=for-the-badge)
->![TENABLE](https://img.shields.io/badge/TENABLE-4285F4?style=for-the-badge)
->![TENABLE](https://img.shields.io/badge/TENABLE-4285F4?style=for-the-badge)
+>![Documentation of internal procedures](https://img.shields.io/badge/Documentation_of_internal_procedures-4285F4?style=for-the-badge)
+>![training of new analysts](https://img.shields.io/badge/training_of_new_analysts-4285F4?style=for-the-badge)
+>![Preparation of technical reports](https://img.shields.io/badge/Preparation_of_technical_reports-4285F4?style=for-the-badge)
+>![Vulnerability management](https://img.shields.io/badge/Vulnerability_management-4285F4?style=for-the-badge)
 
-
-
-
-<br />
-
-## 📖 Currently Studying
- 
- >![PYTHON](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) 
+## ⚙️Tools
+>![Python](https://img.shields.io/badge/Python-4285F4?style=for-the-badge)
+>![OPENCTI](https://img.shields.io/badge/OPENCTI-4285F4?style=for-the-badge)
+>![TENABLE](https://img.shields.io/badge/TENABLE-4285F4?style=for-the-badge)
+>![Power BI](https://img.shields.io/badge/Power_bi-4285F4?style=for-the-badge)
+>![AXUR](https://img.shields.io/badge/AXUR-4285F4?style=for-the-badge)
+>![IBM QRADAR](https://img.shields.io/badge/IBM_QRADAR-4285F4?style=for-the-badge)
 
 <br />
 
