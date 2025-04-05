@@ -27,6 +27,19 @@ Nothing yet. Just another pessoal project:
 >![Infostealer Credentials](https://img.shields.io/badge/Infostealer_Credentials-4285F4?style=for-the-badge)
 >![Corporate Credential Leak](https://img.shields.io/badge/Corporate_Credential_Leak-4285F4?style=for-the-badge)
 >![Deep and dark web monitoring](https://img.shields.io/badge/Deep_and_dark_web_monitoring-4285F4?style=for-the-badge)
+>![Log analysis](https://img.shields.io/badge/Log_analysis-4285F4?style=for-the-badge)
+>![TENABLE](https://img.shields.io/badge/TENABLE-4285F4?style=for-the-badge)
+>![TENABLE](https://img.shields.io/badge/TENABLE-4285F4?style=for-the-badge)
+>![TENABLE](https://img.shields.io/badge/TENABLE-4285F4?style=for-the-badge)
+>![TENABLE](https://img.shields.io/badge/TENABLE-4285F4?style=for-the-badge)
+>![TENABLE](https://img.shields.io/badge/TENABLE-4285F4?style=for-the-badge)
+>![TENABLE](https://img.shields.io/badge/TENABLE-4285F4?style=for-the-badge)
+>![TENABLE](https://img.shields.io/badge/TENABLE-4285F4?style=for-the-badge)
+>![TENABLE](https://img.shields.io/badge/TENABLE-4285F4?style=for-the-badge)
+>![TENABLE](https://img.shields.io/badge/TENABLE-4285F4?style=for-the-badge)
+
+
+
 
 <br />
 
